@@ -1,8 +1,8 @@
 *.gz
 *.log
-*.aux
-*.log
-*.lol
-*.toc
-*.bbl
-*.blg
+ifpl.aux
+ifpl.log
+ifpl.lol
+ifpl.toc
+ifpl.bbl
+ifpl.blg
