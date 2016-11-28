@@ -1,4 +1,0 @@
-\contentsline {part}{I\hspace {1em}One}{7}
-\contentsline {chapter}{\numberline {1}Introduction}{9}
-\contentsline {section}{\numberline {1.1}Assumptions}{9}
-\contentsline {section}{\numberline {1.2}Part I: Compiling High-level Functional Languages}{10}
